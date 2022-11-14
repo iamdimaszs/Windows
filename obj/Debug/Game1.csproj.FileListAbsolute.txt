@@ -1,0 +1,9 @@
+C:\Users\Ben\source\repos\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Ben\source\repos\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Ben\source\repos\Game1\bin\Debug\Flying Bird.exe
+C:\Users\Ben\source\repos\Game1\bin\Debug\Flying Bird.pdb
+C:\Users\Ben\source\repos\Game1\obj\Debug\Flying Bird.exe
+C:\Users\Ben\source\repos\Game1\obj\Debug\Flying Bird.pdb
